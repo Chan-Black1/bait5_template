@@ -1,0 +1,34 @@
+/* ...........................  */
+
+@media only screen and (max-width: 991px) {
+    .service-section {
+        margin: 0;
+    }
+    .service-mainimage {	
+        max-width: 500px;
+        margin: 0 auto 30px;
+    }
+    }
+    @media only screen and (max-width: 575px) {
+    .gallery-columns-4 .gallery-item {
+        max-width: 50%;
+    }
+    .service-mainimage-box p {	
+        font-size: 22px;	
+    }
+    .service-category-wrapper .row {
+        margin: 0 -7px;
+    }
+    .service-category-item {
+        margin-bottom: 15px;	
+        padding: 0 7.5px;
+    }
+    .service-category-image {
+        min-height: 100px;	
+    }
+    .service-category-summery {
+        padding: 0 15px 7px;
+    }
+    }
+
+/* ................................ */
